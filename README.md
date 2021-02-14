@@ -1,7 +1,13 @@
 # Memory Game (Concentration)
 ### Rules
-In turn, each player chooses two cards and turns them face up. If they are of the same rank and color (e.g. six of hearts and six of diamonds, queen of clubs and queen of spades, or both jokers, if used) then that player wins the pair and plays again. If they are not of the same rank and color, they are turned face down again and play passes to the player on the left. Rules can be changed here too: it can be agreed before the game starts that matching pairs be any two cards of the same rank, a color-match being unnecessary, or that the match must be both rank and card suit.
+The player chooses two cards and turns them face up. If they are of the same rank and color or if cards match under some other determined conditions, then that pair is removed and the user picks again. If the cards do not match, they are turned face down again and the player chooses two cards again. The game ends when the last pair has been picked up.
 
-The game ends when the last pair has been picked up. The winner is the person with the most pairs. There may be a tie for first place.
+### Vision Statement
+FOR senior citizens and older indviduals WHO need a way to improve memory skills and get mental stimulation, Concentration is a software application THAT provides an easy, efficient, and fun way to improve congnition. UNLIKE physical card and board games, OUR PRODUCT provides a fully digital game-playing experience. 
 
-Rules from [Wikipedia](https://en.wikipedia.org/wiki/Concentration_(card_game)#Rules)
+### Features
+1. A timer starts when players begin a game and stops when they win. 
+2. The game can be stopped and restarted or quit at any time
+3. Number of moves (in pairs) is recorded
+4. After a pair is selected, the game will clearly show if the cards match or not
+5. Choosing cards will be easy and intuitive to do
