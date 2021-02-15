@@ -1,0 +1,23 @@
+
+User Stories:
+
+
+1. As a doctor, I want my older patients to get mental stimulation on a frequent basis so that their cognitive health declines as little as possible.
+
+2. As a staff member at an assisted living facility, I want seniors to have a way to stay busy and feel productive during the day so that they enjoy living in the facility and have a better mood.
+
+3. As a senior citizen, I want to play a game that is easy to understand so that I don't have to spend lots of time learning how to play it.
+
+4. As a senior citizen, I want to play a game that helps improve my computer skills so that I can more easily stay in touch digitally with my family and relatives.
+
+5. As a senior citizen, I want to play a game that allows me to compete against other seniors so that I have access to a competitive outlet at an older age.
+
+6. As the child of a senior citizen, I want my parent to have a fun game to play during the day so that I can be confident knowing my parent is having fun and staying busy while we're not living together.
+
+7. As a senior citizen, I want to play a digital game so that I don't get bored playing only board and card games all the time.
+
+8. As a staff member at an assisted living facility, I want a game that's easy to introduce and explain to the members of the facility so that they don't get frustrated if they try to play it.
+
+9. As a senior citizen, I want to play a game that can improve my cognitive sharpness and concentration so that I continue to feel great mentally as I age.
+
+10. As a doctor, I want a user-friendly game that supports cognition so that I can confidently recommend it to my older patients. 
