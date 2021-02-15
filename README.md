@@ -11,3 +11,4 @@ FOR senior citizens and older indviduals WHO need a way to improve memory skills
 3. Number of moves (in pairs) is recorded
 4. After a pair is selected, the game will clearly show if the cards match or not
 5. Choosing cards will be easy and intuitive to do
+6. Cards that have been removed will be clearly marked as so
